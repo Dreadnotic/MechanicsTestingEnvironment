@@ -1,31 +1,29 @@
 # v1_21
 
 ******************************************************
-		     Dark Entity
-	   Testing Environment Button Mapping
+	    Dark Entity
+Testing Environment Button Mapping
 ******************************************************
 
-	   Input		   Action
+   Input	Action
 
-	   W 		      	   Move Forward
-	   A			   Move Left
-	   S			   Move Backward
-	   D			   Move Right
-	   Tab			   Cycle Day/Night
-	   CapsLock		   Walk/Run (Toggle)
-	   Shift		   Sprint (Hold)
-	   Space		   Jump
-	   E			   Interact (Switches)
-	   L-Click		   Interact (Switches)
-	   O			   Disable Movement
-	   P			   Reset Level
-            
-	   Alt + F4		   Close Game
-            
-            
-            
+   W 		Move Forward
+   A		Move Left
+   S		Move Backward
+   D		Move Right
+   Tab		Cycle Day/Night
+   CapsLock	Walk/Run (Toggle)
+   Shift	Sprint (Hold)
+   Space	Jump
+   E		Interact (Switches)
+   L-Click	Interact (Switches)
+   O		Disable Movement
+   P		Reset Level
+   
+   Alt + F4	Close Game
+   
 ******************************************************
-	            Current Bugs
+	    Current Bugs
 ******************************************************
 
 -Day/Night cycle interfering with the teleport system.
