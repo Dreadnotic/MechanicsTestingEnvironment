@@ -26,5 +26,6 @@
 	    	Current Bugs
 ******************************************************
 
-  -Day/Night cycle interfering with the teleport system.
+    -Day/Night cycle interfering with the teleport 
+     system.
 ******************************************************
