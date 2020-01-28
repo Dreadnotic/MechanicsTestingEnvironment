@@ -1,8 +1,8 @@
 # v1_21
 
 ******************************************************
-	    Dark Entity
-Testing Environment Button Mapping
+	    	  Dark Entity
+	Testing Environment Button Mapping
 ******************************************************
 
    	Input		Action
@@ -23,9 +23,8 @@ Testing Environment Button Mapping
    	Alt + F4	Close Game
    
 ******************************************************
-******************************************************
-	    Current Bugs
+	    	Current Bugs
 ******************************************************
 
--Day/Night cycle interfering with the teleport system.
+  -Day/Night cycle interfering with the teleport system.
 ******************************************************
